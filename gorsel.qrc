@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/kutphne/prefix1">
+        <file>book.jpg</file>
+        <file>user.jpg</file>
+        <file>odunc_2.jpg</file>
+        <file>odunc_1.jpg</file>
+    </qresource>
+</RCC>
